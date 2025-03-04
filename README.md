@@ -2,6 +2,7 @@
 
 ## 📌 Overview  
 This **Sales Dashboard** was built using **Power BI** to analyze and visualize key business metrics, including total sales, order volume, customer insights, and best-selling product categories.
+![Dashboard Preview](https://github.com/Ratinguss/Sales-Dashboard/blob/main/Sales%20Dashboard%20-%20Overview.png) 
 
 ## 🛠️ Tools & Technologies  
 - **Power BI** – Data visualization and report building  
@@ -33,6 +34,7 @@ To enhance the dashboard’s readability and visual appeal:
 - Keep the layout **clean and well-structured** for easy interpretation.  
 
 ## 🚀 How to Use  
-1. Open the **.pbix** file in **Power BI Desktop**.  
+1. Open the **![Sales Dashboard](https://github.com/Ratinguss/Sales-Dashboard/blob/main/Sales%20Dashboard.pbix)** file in **Power BI Desktop**.  
 2. Interact with filters (e.g., select months/categories).  
-3. Analyze sales performance and trends.  
+3. Analyze sales performance and trends.
+4. You can also see some PNG preview of the dashboard with the uploaded images, ex:
